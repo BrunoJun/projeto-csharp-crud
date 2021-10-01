@@ -23,7 +23,7 @@ O projeto compreende a um simples APP CRUD desenvolvido em C#, o intuito é o re
 
 ## Status
 
-:white_check_mark: Em andamento :white_check_mark:
+:white_check_mark: Finalizado :white_check_mark:
 
 ***
 
