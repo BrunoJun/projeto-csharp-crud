@@ -1,0 +1,16 @@
+C:\Users\BrunoJun\Documents\Cursos_geral\DIO\Take Blip Fullstack Developer #2\ProjetoAppCRUD\projetoAPPCRUD\bin\Debug\net5.0\projetoAPPCRUD.exe
+C:\Users\BrunoJun\Documents\Cursos_geral\DIO\Take Blip Fullstack Developer #2\ProjetoAppCRUD\projetoAPPCRUD\bin\Debug\net5.0\projetoAPPCRUD.deps.json
+C:\Users\BrunoJun\Documents\Cursos_geral\DIO\Take Blip Fullstack Developer #2\ProjetoAppCRUD\projetoAPPCRUD\bin\Debug\net5.0\projetoAPPCRUD.runtimeconfig.json
+C:\Users\BrunoJun\Documents\Cursos_geral\DIO\Take Blip Fullstack Developer #2\ProjetoAppCRUD\projetoAPPCRUD\bin\Debug\net5.0\projetoAPPCRUD.runtimeconfig.dev.json
+C:\Users\BrunoJun\Documents\Cursos_geral\DIO\Take Blip Fullstack Developer #2\ProjetoAppCRUD\projetoAPPCRUD\bin\Debug\net5.0\projetoAPPCRUD.dll
+C:\Users\BrunoJun\Documents\Cursos_geral\DIO\Take Blip Fullstack Developer #2\ProjetoAppCRUD\projetoAPPCRUD\bin\Debug\net5.0\ref\projetoAPPCRUD.dll
+C:\Users\BrunoJun\Documents\Cursos_geral\DIO\Take Blip Fullstack Developer #2\ProjetoAppCRUD\projetoAPPCRUD\bin\Debug\net5.0\projetoAPPCRUD.pdb
+C:\Users\BrunoJun\Documents\Cursos_geral\DIO\Take Blip Fullstack Developer #2\ProjetoAppCRUD\projetoAPPCRUD\obj\Debug\net5.0\projetoAPPCRUD.csproj.AssemblyReference.cache
+C:\Users\BrunoJun\Documents\Cursos_geral\DIO\Take Blip Fullstack Developer #2\ProjetoAppCRUD\projetoAPPCRUD\obj\Debug\net5.0\projetoAPPCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoJun\Documents\Cursos_geral\DIO\Take Blip Fullstack Developer #2\ProjetoAppCRUD\projetoAPPCRUD\obj\Debug\net5.0\projetoAPPCRUD.AssemblyInfoInputs.cache
+C:\Users\BrunoJun\Documents\Cursos_geral\DIO\Take Blip Fullstack Developer #2\ProjetoAppCRUD\projetoAPPCRUD\obj\Debug\net5.0\projetoAPPCRUD.AssemblyInfo.cs
+C:\Users\BrunoJun\Documents\Cursos_geral\DIO\Take Blip Fullstack Developer #2\ProjetoAppCRUD\projetoAPPCRUD\obj\Debug\net5.0\projetoAPPCRUD.csproj.CoreCompileInputs.cache
+C:\Users\BrunoJun\Documents\Cursos_geral\DIO\Take Blip Fullstack Developer #2\ProjetoAppCRUD\projetoAPPCRUD\obj\Debug\net5.0\projetoAPPCRUD.dll
+C:\Users\BrunoJun\Documents\Cursos_geral\DIO\Take Blip Fullstack Developer #2\ProjetoAppCRUD\projetoAPPCRUD\obj\Debug\net5.0\ref\projetoAPPCRUD.dll
+C:\Users\BrunoJun\Documents\Cursos_geral\DIO\Take Blip Fullstack Developer #2\ProjetoAppCRUD\projetoAPPCRUD\obj\Debug\net5.0\projetoAPPCRUD.pdb
+C:\Users\BrunoJun\Documents\Cursos_geral\DIO\Take Blip Fullstack Developer #2\ProjetoAppCRUD\projetoAPPCRUD\obj\Debug\net5.0\projetoAPPCRUD.genruntimeconfig.cache
