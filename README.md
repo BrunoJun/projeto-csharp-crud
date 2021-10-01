@@ -10,6 +10,8 @@ Este projeto foi criado durante a realização do bootcamp Take Blip Fullstack D
 
 O projeto compreende a um simples APP CRUD desenvolvido em C#, o intuito é o registro de carros, juntamento com as seguintes características marca, modelo e ano.
 
+:exclamation: Atualmente o projeto <b> NÃO </b> apresenta registro no banco de dados, apenas na memória local  :exclamation:
+
 ***
 
 ## Tecnologias
@@ -21,7 +23,7 @@ O projeto compreende a um simples APP CRUD desenvolvido em C#, o intuito é o re
 
 ## Status
 
-:construction: Em andamento :construction:
+:white_check_mark: Em andamento :white_check_mark:
 
 ***
 
