@@ -5,25 +5,25 @@ namespace projetoAPPCRUD
     public class Carro : EntidadeBase
     {   
 
-        private Marca marca{get; set;}
+        private Marca Marca{get; set;}
 
-        private string modelo{get; set;}
+        private string Modelo{get; set;}
 
-        private int ano{get; set;}
+        private int Ano{get; set;}
 
         public Carro(int id, Marca marca, string modelo, int ano)
         {
             
             this.id = id;
-            this.marca = marca;
-            this.modelo = modelo;
-            this.ano = ano;
+            this.Marca = marca;
+            this.Modelo = modelo;
+            this.Ano = ano;
         }
 
         public override string ToString()
         {
             
-            return $"Marca: {marca}\nModelo: {modelo}\nAno: {ano}";
+            return $"Marca: {Marca}\nModelo: {Modelo}\nAno: {Ano}";
         }
 
         public int retornaId(){
@@ -33,12 +33,12 @@ namespace projetoAPPCRUD
 
         public string retornaModelo(){
 
-            return modelo;
+            return Modelo;
         }
 
         public int retornaAno(){
 
-            return ano;
+            return Ano;
         }
     }
 }
